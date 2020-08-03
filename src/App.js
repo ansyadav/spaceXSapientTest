@@ -1,6 +1,5 @@
 import React from 'react';
 import FilterPanel from './components/FilterPanel';
-import './App.css';
 
 function App() {
   return (

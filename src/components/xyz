@@ -1,0 +1,270 @@
+<!doctype html>
+<html lang="en">
+
+<head>
+    <meta charset="utf-8">
+    <title>Bank of America</title>
+    <meta name="description" content="Bank of America">
+    <meta name="author" content="Bank of America">
+    <link rel="stylesheet" href="./assets/reset.css">
+    <link rel="stylesheet" href="./assets/style.css">
+</head>
+
+<body>
+    <div class="wrapper">
+        <header class="page-header">
+
+        </header>
+        <main class="main">
+            <section class="banner">
+                <div class="search-help-boa">
+                    <h1>How can we help you today?</h1>
+                    <form>
+                        <label for="search"></label>
+                        <input type="text" name="search" id="search" placeholder="Search Support" />
+                    </form>
+                </div>
+                <a class="share-feedback-boa">Share your feedback</a>
+            </section>
+            <div class="content">
+                <div class="product-menu-header-boa clearfix">
+                    <div class="browse-categories-boa">
+                        <select>
+                            <option>Browse Cetegories</option>
+                            <option>Browse Cetegories</option>
+                            <option>Browse Cetegories</option>
+                            <option>Browse Cetegories</option>
+                            <option>Browse Cetegories</option>
+                        </select>
+
+                    </div>
+                    <nav class="menu-nav-boa">
+                        <ul>
+                            <li class="active">
+                                <a href="#">catalog</a>
+                            </li>
+                            <li>
+                                <a href="#">orders</a>
+                            </li>
+                            <li>
+                                <a href="#">Approvals<sup class="badge-circle-boa red-badge-boa">2</sup></a>
+                            </li>
+                            <li>
+                                <a href="#">compare</a>
+                            </li>
+                        </ul>
+                    </nav>
+                    <div class="action-cart-boa">
+                        <ul>
+                            <li>
+                                <span class="icon-boa search-boa"></span> Request for
+                            </li>
+                            <li>
+                                <span class="icon-boa heart-boa"></span> Favorites
+                            </li>
+                            <li>
+                                <span class="icon-boa cart-boa">
+                                    <sup class="badge-circle-boa blue-badge-boa">3</sup>
+                                </span> cart
+                            </li>
+                        </ul>
+                    </div>
+
+                </div>
+                <div class="product-list-boa">
+                    <section class="orders-details-boa">
+                        <div class="order-header-boa">
+                            <h3>Orders</h3>
+                            <span class="filter-order-boa"><span class="icon-boa filter-boa"></span>filter</span>
+                        </div>
+                        <div class="order-list-boa">
+                            <ul class="order-main-list-boa">
+                                <li>
+                                    <div class="order-list-number-boa">
+                                        Order 3939292 - In process
+                                    </div>
+                                    <ul class="order-inner-list-boa">
+                                        <li>
+                                            <div class="product-header-boa">
+                                                <div class="order-serial-number-boa">1 of 2</div>
+                                                <div class="order-image-boa">
+                                                    <img src="./assets/images/desktop.jpg" alt="DesktopImage">
+                                                </div>
+                                                <div class="order-title-boa">
+                                                    <strong>Dell Ultrasharp 34' Curved monitor</strong>
+                                                    <span>$656.59</span>
+                                                </div>
+                                                <div class="order-status-boa">
+                                                    <span>Status</span>
+                                                    <strong>Ordered</strong>
+                                                </div>
+                                            </div>
+                                            <div class="product-footer-boa open">
+                                                <div class="product-summary-details-boa">
+                                                    <div class="product-summary-left-boa">
+                                                        <span class="icon-boa close-boa"></span>
+                                                        <span class="icon-boa open-boa"></span>
+                                                    </div>
+                                                    <div class="product-summary-right-boa">
+                                                        <ul>
+                                                            <li>
+                                                                <span>Requested for</span>
+                                                                <strong>jennifer cooper</strong>
+                                                            </li>
+                                                            <li>
+                                                                <span>rejected by</span>
+                                                                <strong>sumit kumar</strong>
+                                                            </li>
+                                                            <li>
+                                                                <span>ordered on</span>
+                                                                <strong>08-mar-2020</strong>
+                                                            </li>
+                                                            <li>
+                                                                <span>comments</span>
+                                                                <a href="#">view/add comments</a>
+                                                            </li>
+                                                        </ul>
+                                                        <ul>
+                                                            <li>
+                                                                <span>Requested by</span>
+                                                                <strong>jennifer cooper</strong>
+                                                            </li>
+                                                            <li>
+                                                                <span>request #</span>
+                                                                <strong>sumit kumar</strong>
+                                                            </li>
+                                                            <li>
+                                                                <span>quantity</span>
+                                                                <strong>08-mar-2020</strong>
+                                                            </li>
+                                                            <li>
+                                                                <span>order actions</span>
+                                                                <div class="order-action-boa">
+                                                                    <select>
+                                                                        <option>Select</option>
+                                                                        <option>Order again</option>
+                                                                        <option>Re-open</option>
+                                                                        <option>Return</option>
+                                                                        <option>Cancel</option>
+                                                                    </select>
+                                                                    <button type="submit"
+                                                                        class="btn-boa">Submit</button>
+
+                                                                </div>
+                                                            </li>
+                                                        </ul>
+
+                                                    </div>
+                                                </div>
+                                                <div class="product-progress-status-boa">
+                                                    <ul>
+                                                        <li class="done">
+                                                            <div class="progress-dot"></div>
+                                                            <strong>Ordered</strong>
+                                                            <span>08-mar-2020</span>
+                                                        </li>
+                                                        <li class="active">
+                                                            <div class="progress-dot"></div>
+                                                            <strong>Rejected</strong>
+                                                            <span>11-mar-2020</span>
+                                                        </li>
+                                                        <li>
+                                                            <div class="progress-dot"></div>
+                                                            <strong>In process</strong>
+                                                            <span>TBD</span>
+                                                        </li>
+                                                        <li>
+                                                            <div class="progress-dot"></div>
+                                                            <strong>Shipped</strong>
+                                                            <span>05/09/20</span>
+                                                        </li>
+                                                        <li>
+                                                            <div class="progress-dot"></div>
+                                                            <strong>Complete</strong>
+                                                            <span>TBD</span>
+                                                        </li>
+                                                        <li>
+                                                            <div class="progress-dot"></div>
+                                                            <strong>Closed</strong>
+                                                            <span>TBD</span>
+                                                        </li>
+                                                    </ul>
+
+                                                </div>
+                                            </div>
+                                        </li>
+                                    </ul>
+                                </li>
+                            </ul>
+
+                        </div>
+                    </section>
+                    <aside class="trending-orders-details-boa">
+                        <div class="trending-order-header-boa">
+                            <h3>Trending Orders</h3>
+                            <ul class="trending-order-list-boa">
+                                <li>
+                                    <div class="torder-list-image-boa">
+                                        <div class="image-section-boa">
+                                            <img src="./assets/images/desktop.jpg" alt="desktop">
+                                        </div>
+                                        <ul class="dot-list-boa">
+                                            <li></li>
+                                            <li></li>
+                                            <li></li>
+                                        </ul>
+                                        <ul class="side-action-icon-boa">
+                                            <li>
+                                                <span class="icon-boa icon1-boa"></span>
+                                            </li>
+                                            <li>
+                                                <span class="icon-boa icon2-boa"></span>
+                                            </li>
+                                            <li>
+                                                <span class="icon-boa icon3-boa"></span>
+                                            </li>
+                                            <li>
+                                                <span class="icon-boa icon4-boa"></span>
+                                            </li>
+                                        </ul>
+                                    </div>
+                                    <div class="torder-list-content-boa">
+                                        <strong>
+                                            Dell Ultrasharp Curved Monitor
+                                        </strong>
+                                        <ul>
+                                            <li><span class="icon-boa star-iconfill-boa"></span></li>
+                                            <li><span class="icon-boa star-iconfill-boa"></span></li>
+                                            <li><span class="icon-boa star-icon-boa"></span></li>
+                                            <li><span class="icon-boa star-icon-boa"></span></li>
+                                            <li><span class="icon-boa star-icon-boa"></span></li>
+                                            <li>(10)</li>
+                                        </ul>
+                                        <span>Excerpt text displays here</span>
+
+                                    </div>
+                                    <div class="torder-list-price-boa">
+
+                                    </div>
+
+                                </li>
+                            </ul>
+                        </div>
+                    </aside>
+
+                </div>
+
+            </div>
+        </main>
+        <footer class="page-footer">
+
+        </footer>
+
+
+    </div>
+
+
+    <script src="js/scripts.js"></script>
+</body>
+
+</html>
